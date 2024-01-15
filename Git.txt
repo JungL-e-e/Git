@@ -1,0 +1,18 @@
+1. Version Control System	- Version Management, not by changing the file name
+
+* features
+	1. Back-up
+	2. Recovery
+	3. Collaboration
+
+
+Version Control System	- CVS, SVN, GIT
+
+* GIT is incredibly complex!
+* Dropbox, Google Drive 도 GIT의 역할을 할 수 있다.
+* 코드가 복잡할수록 GIT의 유용성이 올라간다. 
+
+
+2. Git 설치	- Git bash 실행 
+3. Git 실습	- Codeonweb 다운	// 왜 안되지?
+* https://learngitbranching.js.org/?locale=ko	- 깃 공부하기 좋은 사이트
